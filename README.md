@@ -1,3 +1,6 @@
+- [Medium doc Patterns for accessing code from Dynamic Feature Modules](https://medium.com/androiddevelopers/patterns-for-accessing-code-from-dynamic-feature-modules-7e5dca6f9123)
+
+
 Dynamic code loading sample
 ============
 
